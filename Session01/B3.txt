@@ -1,0 +1,5 @@
+Con người: người đặt món, người cung cấp món ăn, người giao hàng, người quản lý, người bảo trì hệ thống khi có lỗi  
+Dữ liệu: Thông tin nhà hàng, thông tin khách hàng, thông tin đơn hàng , thông tin thanh toán, thông tin khuyến mãi.  
+Quy trình: Khách hàng chọn món -> khách đặt hàng và chọn hình thức thánh toán -> Nhà hàng xác nhận đơn hàng và làm -> Nhan viên giao đến cho khách hàng -> Khách hàng nhận hàng thanh toán và đánh giá  
+Phần mềm: Ứng dụng trên web và di động, phần mềm quản lý nhà hàng , hệ thống quản lý dữ liệu, hệ thống thanh toán trực tuyến, hệ thống bản đồ và định vị.  
+Phần cứng: Điện thoại thông minh, máy tính , máy in hóa đơn , máy chủ lưu trữ dữ liệu và chạy ứng dụng, thiết bị định vị GPS

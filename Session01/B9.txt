@@ -1,0 +1,20 @@
+1. Tác nhân và chức năng:
+- Khách hàng: tạo đơn, theo dõi hành trình, yêu cầu đổi lịch/địa chỉ, khiếu nại.
+- Nhân viên giao hàng: cập nhật trạng thái, thu COD.
+- Quản lý: xem hiệu suất, báo cáo khu vực, tồn đọng.
+- CEO: xem tổng quan, vùng hoạt động, tỷ lệ đúng hẹn.
+
+2. Phân loại hệ thống thông tin:
+- Tạo đơn, cập nhật trạng thái, thu COD - TPS
+- Báo cáo, thống kê hiệu suất - MIS
+- Dự báo, tối ưu tuyến giao - DSS
+- Tổng quan, KPI, bản đồ vùng hoạt động - EIS
+
+3. Mô hình phát triển phần mềm: Agile/Scrum + DevOps
+Vì linh hoạt, phù hợp hệ thống lớn, thay đổi nhanh; triển khai từng phần (MVP → mở rộng), dễ cập nhật & kiểm thử liên tục.
+
+4. Bốn sơ đồ UML sử dụng
+- Use Case Diagram – mô tả tác nhân & chức năng hệ thống.
+- Activity Diagram – mô tả luồng giao hàng từ tạo đơn → giao → hoàn tất.
+- Sequence Diagram – thể hiện thứ tự tương tác giữa người dùng & hệ thống.
+- Class Diagram – mô hình dữ liệu chính: Đơn hàng, Người dùng, Giao hàng, Khu vực.

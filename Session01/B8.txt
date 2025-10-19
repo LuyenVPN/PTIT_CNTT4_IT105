@@ -1,0 +1,15 @@
+1. Tác nhân chính & chức năng tương ứng:
+- Học viên: Đăng ký tài khoản, chọn khóa học, thanh toán, xem bài học, làm bài/quiz, nộp bài, xem tiến độ, điểm số, chứng chỉ
+- Giảng viên: Tạo/soạn/sắp xếp bài học hoặc đề/quiz, nội dung, cấm điểm, phản hồi, quản lý điểm danh, theo dõi tiến độ lớp, xuất điểm
+- Admin (Quản trị): Quản lý người dùng, dữ liệu, phân quyền (student/teacher/admin), quản lý khóa học, lịch học, danh mục
+
+
+2. Phân loại hệ thống thông tin phù hợp:
+- TPS: đăng ký/ghi danh, thanh toán, nộp bài, ghi nhận điểm/điểm danh.
+- MIS: số học viên theo khóa, tỷ lệ hoàn thành, doanh thu theo tháng, hiệu suất lớp/giảng viên.
+- DSS: Gợi ý mở lớp mới, phân bổ giảng viên
+
+3. Mô hình phát triển phần mềm đề xuất : Agile
+Lý do: Vì nhu cầu thay đổi thường xuyên nên cần điều chỉnh nhanh, dễ kiểm thử người dùng, giảm rủi ro sai lệch yêu cầu và giúp triển khai nhanh, an toàn, theo dõi chất lượng liên tục.
+
+4. Ba sơ đồ UML sẽ dùng khi thiết kế chi tiết: Use Case Diagram, Class Diagram, Sequence Diagram

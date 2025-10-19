@@ -1,0 +1,6 @@
+Planning: Xác định phạm vi dự án, mục tiêu, và các yêu cầu
+Analysis: Thu thập và phân tích các yêu cầu chi tiết của ứng dụng
+Design: Thiết kế giao diện tổng thể của ứng dụng
+Implementation: Biến các kế hoạch, chiến lược marketing, chính sách, hoặc các yêu cầu nghiệp vụ thành hành động cụ thể để đi vào hoạt động
+Testing: Kiểm tra và thử nghiệm xem có lỗi gì không
+Deployment & Maintenance: Triển khai ứng dụng , bảo trì và nâng cấp 

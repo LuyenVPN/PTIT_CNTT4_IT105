@@ -1,0 +1,11 @@
+1. Planning (Lập kế hoạch): Xác định phạm vi, mục tiêu, nguồn lực, chi phí và thời gian thực hiện dự án. Đưa ra lộ trình tổng thể và phân công vai trò cho các thành viên.
+
+2. Requirement Analysis (Phân tích yêu cầu): Thu thập và phân tích yêu cầu từ người dùng, trung tâm y tế, xác định rõ chức năng – phi chức năng và quy tắc nghiệp vụ cần có trong hệ thống.
+
+3. System Design (Thiết kế hệ thống): Thiết kế kiến trúc tổng thể, cơ sở dữ liệu, giao diện, sơ đồ luồng dữ liệu và xác định công nghệ sẽ sử dụng để xây dựng hệ thống.
+
+4. Implementation (Lập trình & tích hợp): Hiện thực hóa thiết kế bằng cách viết mã, phát triển giao diện, API và tích hợp các thành phần của hệ thống.
+
+5. Testing (Kiểm thử): Đảm bảo hệ thống hoạt động đúng yêu cầu, không có lỗi, kiểm tra hiệu năng, bảo mật và trải nghiệm người dùng trước khi triển khai.
+
+6. Deployment & Maintenance (Triển khai & bảo trì): Triển khai hệ thống lên môi trường thật, theo dõi hoạt động, xử lý lỗi phát sinh và thực hiện bảo trì, cập nhật khi có yêu cầu mới.

@@ -1,0 +1,3 @@
+Giao dịch bán hàng:  TPS (Hệ thống xử lý giao dịch)
+Phân tích xu hướng kinh doanh:  DSS (Hệ thống hỗ trợ ra quyết định)
+Bảng tổng quan hiệu suất hàng tháng dành cho CEO: EIS(Hệ thống thông tin điều hành)

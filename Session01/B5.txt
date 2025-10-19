@@ -1,0 +1,8 @@
+1. Planning: Kế hoạch dự án, thời gian biểu, và xác định công nghệ 
+
+2. Requirement Analysis:
+Giảng viên: tạo buổi học, sinh mã QR, xem danh sách điểm danh.
+Sinh viên: đăng nhập, quét mã QR để điểm danh.
+Phòng đào tạo: thống kê, xuất báo cáo.
+
+3. System Design: Thiết kế dữ liệu, thiết kế giao diện

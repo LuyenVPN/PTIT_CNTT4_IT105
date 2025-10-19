@@ -1,0 +1,6 @@
+Dự án A (Phần mềm quản lý điểm cho trường cấp 2, yêu cầu rõ ràng): Mô hình Waterfall
+Lý do: Vì yêu cầu của dự án là xác định rõ ràng và có ít khả năng thay đổi
+Dự án B (Ứng dụng mobile đặt lịch khám bệnh, yêu cầu linh hoạt): Mô hình Agile
+Lý do: Vì cần sự linh hoạt để có phản hồi kịp thời của người dùng và thay đổi khi cần thiết
+Dự án C (Hệ thống ngân hàng điện tử có bảo mật và độ phức tạp cao): Mô hình Spiral
+Lý do: Vì đòi hỏi độ bảo mật và độ tin cậy cao, đồng thời giảm thiểu rủi ro 
